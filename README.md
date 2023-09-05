@@ -6,4 +6,4 @@ Meu nome é Tainá
 - Estou me desenvolvendo na linguagem JavaScript.
 - Utiizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-![](https://media.tenor.com/BrHrptJ_tJYAAAAd/gabigol-flaxcor.gif )
+![](https://media.tenor.com/-tbBSyjd0sUAAAAC/gabigol-flamengo.gif)
